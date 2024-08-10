@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello! I'm Mayank Mandar Chandratre
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a passionate **Computer Science Engineering student** at M. S. Bidve Engineering College, Latur, with a keen interest in **DevOps, cloud computing, web development,** and **networking**. I enjoy building full-stack applications and experimenting with new technologies.
 
