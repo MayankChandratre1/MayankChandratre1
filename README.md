@@ -1,59 +1,93 @@
 
-<!--
-**MayankChandratre1/MayankChandratre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm Mayank Mandar Chandratre  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Computer Science Engineering student** at M. S. Bidve Engineering College, Latur, with a strong interest in **DevOps**, **cloud computing**, **full-stack web development**, and **networking**. I enjoy building scalable applications and experimenting with modern technologies to solve real-world problems.  
 
-# 👋 Hello! I'm Mayank Mandar Chandratre
+---
 
-## 👨‍💻 About Me
+## 🛠️ Skills  
 
-I'm a passionate **Computer Science Engineering student** at M. S. Bidve Engineering College, Latur, with a keen interest in **DevOps, cloud computing, web development,** and **networking**. I enjoy building full-stack applications and experimenting with new technologies.
+- **Languages**:  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 
-## 🛠️ Skills
+- **Frameworks & Tools**:  
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)  
+  ![Turborepo](https://img.shields.io/badge/Turborepo-%23EF2D5E.svg?style=flat&logo=turborepo&logoColor=white)  
 
-- **Languages**: Java, TypeScript, Python, JavaScript
-- **Tools**: Docker, GitHub, Git, GitHub Actions, Turborepo
-- **Frameworks**: Next.js, MERN stack, Hono
+- **Databases**: PostgreSQL, MongoDB  
 
-## 🌟 Projects
+---
 
-### [The Chat App](https://github.com/YourUsername/TheChatApp)
-A real-time chat application where users can create chat rooms, add people, and chat with persistent history. Includes CI/CD deployment on Azure VM.
+## 🌟 Projects  
 
-- **Tech Stack**: TypeScript, Turborepo, Prisma, PostgreSQL, Next.js, WebSockets, GitHub Actions, Docker, Azure VM
+### [Admin Analytics Dashboard](https://github.com/MayankChandratre1/AdminDashboard_ChartJS)  
+A dynamic analytics dashboard built using **Next.js 15**, **Chart.js**, and **Shadcn UI** for interactive data visualizations.  
 
-### [Payments App](https://github.com/YourUsername/PaymentsApp)
-A MERN stack project simulating money transfers between wallets with database transactions and JWT authentication.
+- **Tech Stack**: Next.js, Chart.js, Shadcn UI  
+- **Features**: Interactive charts, responsive layout, modular backend and frontend.  
 
-- **Tech Stack**: React, MongoDB, Express, Tailwind, Node.js
+---
 
-## 🎓 Education
+### [Typora Blog App](https://github.com/MayankChandratre1/typora)  
+A full-stack blogging platform with Markdown support, user profiles, and seamless CRUD functionality.  
 
-- **B. Tech in Computer Science Engineering**, M. S. Bidve Engineering College, Latur (2022 - 2026)
+- **Tech Stack**: Next.js, TypeScript, PrismaORM, PostgreSQL, TailwindCSS, Shadcn UI  
+- **Features**:  
+  - Markdown-based blog creation  
+  - Tagging, sharing, and liking blogs  
+  - Responsive UI with dark/light mode toggle  
 
-## 🎖️ Certifications
+---
 
-- Microsoft Azure Data Fundamentals: Explore Core Data Concepts (November 29, 2023)
-- The Complete 2023 Web Development Bootcamp (October 16, 2023)
+### [The Chat App](https://github.com/MayankChandratre1/chat-app-2.0)  
+A real-time chat application with persistent chat history and WebSocket-based communication.  
 
-## 🎉 Extracurricular Activities
+- **Tech Stack**: TypeScript, Next.js, Prisma, PostgreSQL, Docker, Azure VM  
 
-- Junior Secretary, Computer Science Engineering Student Association
-- Event management team member
+---
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankchandratre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MayankChandratre1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://portfolio-react-seven-cyan.vercel.app/)
+## 🎓 Education  
+
+- **B. Tech in Computer Science Engineering**, M. S. Bidve Engineering College, Latur (2022 - 2026)  
+
+---
+
+## 🎖️ Certifications  
+
+- Microsoft Azure Data Fundamentals: Explore Core Data Concepts (November 29, 2023)  
+- The Complete 2023 Web Development Bootcamp (October 16, 2023)  
+
+---
+
+## 🎉 Extracurricular Activities  
+
+- Junior Secretary, Computer Science Engineering Student Association  
+- Event management team member for college events  
+
+---
+
+## 📊 GitHub Statistics  
+
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayankChandratre1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankChandratre1&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MayankChandratre1&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankchandratre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MayankChandratre1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://portfolio-react-seven-cyan.vercel.app/)  
+
+---
+
+Feel free to add your actual GitHub project links and screenshots to match your work. Let me know if you need further modifications!
