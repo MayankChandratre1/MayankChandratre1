@@ -49,9 +49,22 @@ A full-stack blogging platform with Markdown support, user profiles, and seamles
 ### [The Chat App](https://github.com/MayankChandratre1/chat-app-2.0)  
 A real-time chat application with persistent chat history and WebSocket-based communication.  
 
-- **Tech Stack**: TypeScript, Next.js, Prisma, PostgreSQL, Docker, Azure VM  
+- **Tech Stack**: TypeScript, Websockets, Next.js, Prisma, PostgreSQL, Docker, Azure VM  
 
 ---
+
+### [NoConvo](https://github.com/MayankChandratre1/chat-app-firebase)  
+A Firebase project : Google Auth, Firestore, Realtime updates, Gemini AI, Firebase hosting. 
+
+- **Tech Stack**: TypeScript, Firebase, Shadcn, NextJs. 
+
+---
+## [Code D. Dragon](https://github.com/MayankChandratre1/tweeterbot)  
+An AI bot for X(twitter) platform. An express api which is called every 2 hrs with proper authentication using cron jobs (Qstash). Posts random tweets every 2 hrs. 
+
+- **Tech Stack**: Javascript, Express, X Api, Gemini AI. 
+---
+
 
 
 ## 🎓 Education  
@@ -88,6 +101,3 @@ A real-time chat application with persistent chat history and WebSocket-based co
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MayankChandratre1)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://portfolio-react-seven-cyan.vercel.app/)  
 
----
-
-Feel free to add your actual GitHub project links and screenshots to match your work. Let me know if you need further modifications!
