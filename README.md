@@ -27,14 +27,6 @@ I'm a passionate **Computer Science Engineering student** at M. S. Bidve Enginee
 
 ## 🌟 Projects  
 
-### [Admin Analytics Dashboard](https://github.com/MayankChandratre1/AdminDashboard_ChartJS)  
-A dynamic analytics dashboard built using **Next.js 15**, **Chart.js**, and **Shadcn UI** for interactive data visualizations.  
-
-- **Tech Stack**: Next.js, Chart.js, Shadcn UI  
-- **Features**: Interactive charts, responsive layout, modular backend and frontend.  
-
----
-
 ### [Typora Blog App](https://github.com/MayankChandratre1/typora)  
 A full-stack blogging platform with Markdown support, user profiles, and seamless CRUD functionality.  
 
@@ -63,6 +55,13 @@ A Firebase project : Google Auth, Firestore, Realtime updates, Gemini AI, Fireba
 An AI bot for X(twitter) platform. An express api which is called every 2 hrs with proper authentication using cron jobs (Qstash). Posts random tweets every 2 hrs. 
 
 - **Tech Stack**: Javascript, Express, X Api, Gemini AI. 
+---
+### [Admin Analytics Dashboard](https://github.com/MayankChandratre1/AdminDashboard_ChartJS)  
+A dynamic analytics dashboard built using **Next.js 15**, **Chart.js**, and **Shadcn UI** for interactive data visualizations.  
+
+- **Tech Stack**: Next.js, Chart.js, Shadcn UI  
+- **Features**: Interactive charts, responsive layout, modular backend and frontend.  
+
 ---
 
 
@@ -99,5 +98,5 @@ An AI bot for X(twitter) platform. An express api which is called every 2 hrs wi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankchandratre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MayankChandratre1)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://portfolio-react-seven-cyan.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](mayankchandratre.tech)  
 
