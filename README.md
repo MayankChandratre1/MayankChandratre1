@@ -51,7 +51,7 @@ A Firebase project : Google Auth, Firestore, Realtime updates, Gemini AI, Fireba
 - **Tech Stack**: TypeScript, Firebase, Shadcn, NextJs. 
 
 ---
-## [Code D. Dragon](https://github.com/MayankChandratre1/tweeterbot)  
+### [Code D. Dragon](https://github.com/MayankChandratre1/tweeterbot)  
 An AI bot for X(twitter) platform. An express api which is called every 2 hrs with proper authentication using cron jobs (Qstash). Posts random tweets every 2 hrs. 
 
 - **Tech Stack**: Javascript, Express, X Api, Gemini AI. 
